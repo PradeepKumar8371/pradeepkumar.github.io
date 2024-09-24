@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pradeepkumar.github.io/static/css/main.08d11953.css",
+    "main.js": "/pradeepkumar.github.io/static/js/main.bef6a09c.js",
+    "static/js/453.ed3810f9.chunk.js": "/pradeepkumar.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/StudentsAcademicPerformanceTracker_mobileClient.png": "/pradeepkumar.github.io/static/media/StudentsAcademicPerformanceTracker_mobileClient.2d7656d9f652dd494680.png",
+    "static/media/MarketSpark.jpg": "/pradeepkumar.github.io/static/media/MarketSpark.8fae58071cc1f193e134.jpg",
+    "static/media/ProductFinder.jpg": "/pradeepkumar.github.io/static/media/ProductFinder.df458789583c7a2868d3.jpg",
+    "static/media/SFNSText-Bold.otf": "/pradeepkumar.github.io/static/media/SFNSText-Bold.8b87f5a0168dee8a6cd6.otf",
+    "static/media/SFNSText-Light.otf": "/pradeepkumar.github.io/static/media/SFNSText-Light.ae8994d365a229ef4c4e.otf",
+    "static/media/SFNSText-Regular.otf": "/pradeepkumar.github.io/static/media/SFNSText-Regular.d59fc47fa431bd225cca.otf",
+    "static/media/Fanmode.jpg": "/pradeepkumar.github.io/static/media/Fanmode.050443f87bb0d11be63c.jpg",
+    "static/media/StudentsAcademicPerformanceTracker_WebClient.jpg": "/pradeepkumar.github.io/static/media/StudentsAcademicPerformanceTracker_WebClient.fff9ce9a0dabcbfd8409.jpg",
+    "static/media/s.pradeepkumar.pdf": "/pradeepkumar.github.io/static/media/s.pradeepkumar.e89bf0d808beee36a0c9.pdf",
+    "static/media/3d.jpg": "/pradeepkumar.github.io/static/media/3d.5a87a907bf11f4ca0cb9.jpg",
+    "index.html": "/pradeepkumar.github.io/index.html",
+    "main.08d11953.css.map": "/pradeepkumar.github.io/static/css/main.08d11953.css.map",
+    "main.bef6a09c.js.map": "/pradeepkumar.github.io/static/js/main.bef6a09c.js.map",
+    "453.ed3810f9.chunk.js.map": "/pradeepkumar.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d11953.css",
+    "static/js/main.bef6a09c.js"
+  ]
+}
